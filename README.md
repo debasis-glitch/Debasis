@@ -22,6 +22,11 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue) <!-- Profile views badge -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact) <!-- Top languages used -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedIn) <!-- LinkedIn badge -->
+
+
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/debasistripathy337/])
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([(https://x.com/ttapu506?t=g_4C4AXK2sCwUcWQMD1DKg&s=08))]
