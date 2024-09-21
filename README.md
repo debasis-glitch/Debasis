@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Debasis Tripathy]!
+# 👋 Hi there, I'm Debasis Tripathy
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 
