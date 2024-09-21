@@ -23,5 +23,5 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/debasistripathy337/))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([https://twitter.com/YourTwitter](https://x.com/ttapu506?t=g_4C4AXK2sCwUcWQMD1DKg&s=08))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/debasistripathy337/])
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([(https://x.com/ttapu506?t=g_4C4AXK2sCwUcWQMD1DKg&s=08))]
