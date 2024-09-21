@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ![logo](https://github.com/coderun13/coderun13/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Snehal Singh</h1>
-<h3 align="center">A passionate Full Stack Web Developer and an Aspiring AI and ML engineer💻💻.</h3>
+<h1 align="center">Hi 👋, I'm Debasis Tripathy</h1>
+<h3 align="center">A passionate .NET Full Stack Web Developer💻💻.</h3>
 
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
@@ -17,19 +17,14 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Full Stack Web Dev**
 
-- 🌱 I’m currently learning **about AI and ML ...**
 
-- 🤝 I’m looking for help with **AI & ML**
+- 📝 I regularly post on [https://www.linkedin.com/in/debasistripathy337](https:www.linkedin.com/in/debasistripathy337)
 
-- 👨‍💻 All of my projects are available at [https://github.com/coderun13](https://github.com/coderun13)
 
-- 📝 I regularly post on [https://www.linkedin.com/in/coderunsnehal](https://www.linkedin.com/in/coderunsnehal)
 
-- 💬 Ask me about **Nodejs,Express,React,API's**
+- 📫 How to reach me **ttapu506@gmail.com**
 
-- 📫 How to reach me **snehalsingh.0407@gmail.com**
-
-- 😄 Feel free to connect on LinkedIn✌️✌️ [https://www.linkedin.com/in/coderunsnehal](https://www.linkedin.com/in/coderunsnehal)
+- 😄 Feel free to connect on LinkedIn✌️✌️ [https://www.linkedin.com/in/debasistripathy337](https:www.linkedin.com/in/debasistripathy337)
 
 - ⚡ Fun fact: ** Your brain is constantly eating itself😁😁..**
 
