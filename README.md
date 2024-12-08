@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 
 ## About Me
-- 🌱 I’m currently learning `.NET` and building full-stack applications.
+- 🌱 I’m `.NET` full-stack Developer.
 - 💬 Ask me about C#, ASP.NET Core, Mvc and web development.
 - 📫 How to reach me: [ttapu506@gmail.com](mailto:ttapu506@gmail.com)
 - 😄 Pronouns: [He/Him]
